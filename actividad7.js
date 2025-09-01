@@ -20,7 +20,7 @@ class Editorial {
 
 class Libro {
         /**
-         * 
+         * Constructor de clase
          * @param {string} titulo 
          * @param {Object} autor 
          * @param {Object} editorial 
